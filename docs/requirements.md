@@ -1,5 +1,5 @@
 ## Expected Product Functionality:
--Allow the use to enter classroom temperature readings in Fahrenheit.
+Allow the use to enter classroom temperature readings in Fahrenheit.
 -Determine whether a temperature is within the acceptable range 68-76 F, inclusive.
 -Display an appropiate NORMAL or WARNING status.
 -Calculate the average of the recorded temperatures. 
